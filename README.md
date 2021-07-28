@@ -1,1 +1,1 @@
-# nrc2021-open-polychromatic
+# nrc2021-reg-polychromatic
